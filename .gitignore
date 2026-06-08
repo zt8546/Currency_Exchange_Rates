@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+rates.db
+rates.db-journal
+config.json
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
